@@ -27,5 +27,6 @@ public class Calculator {
                 System.out.println("Wrong Choice Entered...");
         }
         System.out.println("Result is :"+result);
+        sc.close();
     }
 }
